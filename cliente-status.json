@@ -1,0 +1,1254 @@
+{
+    "validationtoken": "514cb7f3c9afcd47f9bfbaaff194d9c9444cfbcc",
+    "data": [
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6490",
+            "cliente_nome": "Asklaslk",
+            "cliente_fantasia": "Asklaslk",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "seu@email.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-620",
+            "cliente_endereco": "Rua Ramalho Ortig\u00e3o",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "05\/26\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "25",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "251",
+            "contrato_identificador": "asklaslk04",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "05\/26\/2015",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "asklaslk04",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "15.66",
+                    "complemento": "asklaslk04",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "asklaslk04",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "15.66",
+                    "complemento": "asklaslk04",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "515.66",
+            "pendencias_financeiras": [
+                {
+                    "id": "2019",
+                    "valor": "1031.32",
+                    "vencimento": "05\/29\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2019&publickey=56c6002c8e85ef1e5ed1d0e47c4580aaeaa38582&filename=financeiroteste-002&email=seu@email.com"
+                },
+                {
+                    "id": "2849",
+                    "valor": "515.66",
+                    "vencimento": "07\/25\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2849&publickey=b65a11f3f63d45287c624c773258a7f07ecf5501&filename=financeiroteste-002&email=seu@email.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dasklaslk04%26publickey%3D4ded0b130903c96f40100f1a48bea6752bbf3f8b%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "515.66"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6491",
+            "cliente_nome": "Aklkalsklas",
+            "cliente_fantasia": "Aklkalsklas",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "alalallalalalalla@alal12.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "05\/26\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "25",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "252",
+            "contrato_identificador": "aklkalsklas",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "05\/26\/2015",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "aklkalsklas",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "15.66",
+                    "complemento": "aklkalsklas",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "aklkalsklas",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "15.66",
+                    "complemento": "aklkalsklas",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "515.66",
+            "pendencias_financeiras": [
+                {
+                    "id": "2020",
+                    "valor": "1031.32",
+                    "vencimento": "05\/29\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2020&publickey=9d2aa8a27cf80a795774621ee62992938ee7998b&filename=financeiroteste-002&email=alalallalalalalla@alal12.com"
+                },
+                {
+                    "id": "2035",
+                    "valor": "8888.00",
+                    "vencimento": "08\/01\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2035&publickey=0bbcd12817eb9509641b9bcb4a1f68e642d60824&filename=financeiroteste-002&email=alalallalalalalla@alal12.com"
+                },
+                {
+                    "id": "2850",
+                    "valor": "515.66",
+                    "vencimento": "07\/25\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2850&publickey=782af65f09bf9d633e6625a0542410bd76585e07&filename=financeiroteste-002&email=alalallalalalalla@alal12.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Daklkalsklas%26publickey%3D30a0060ff512ac4d796b89d84f5eec29ef43458f%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "515.66"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6492",
+            "cliente_nome": "Anslkanklsn",
+            "cliente_fantasia": "Anslkanklsn",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "aalskalsklakslaksal@alkslalala1222.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "05\/27\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "25",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "253",
+            "contrato_identificador": "anslkanklsn",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "05\/27\/2015",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "anslkanklsn",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "15.66",
+                    "complemento": "anslkanklsn",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "anslkanklsn",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "15.66",
+                    "complemento": "anslkanklsn",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "515.66",
+            "pendencias_financeiras": [
+                {
+                    "id": "2021",
+                    "valor": "1031.32",
+                    "vencimento": "05\/30\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2021&publickey=1fa6aaafddc62f2c99943e2d3424c5f52c0e44ea&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                },
+                {
+                    "id": "2022",
+                    "valor": "1031.32",
+                    "vencimento": "05\/30\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2022&publickey=dfb9195b0a556ec597cf33abbbd240a8a59cab4d&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                },
+                {
+                    "id": "2034",
+                    "valor": "9999.00",
+                    "vencimento": "06\/02\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2034&publickey=4c27ecb963224d048e04efa91e1d74a00724182f&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                },
+                {
+                    "id": "2045",
+                    "valor": "3200.00",
+                    "vencimento": "08\/01\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2045&publickey=1da5a410a52d982c34c4adb0fb5997a64b9a1a4e&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                },
+                {
+                    "id": "2851",
+                    "valor": "1031.32",
+                    "vencimento": "07\/25\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2851&publickey=1ff010af24080ef749277cda016589861467188b&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Danslkanklsn%26publickey%3D0dd67188f00498da3d0793f5566d604900585805%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "515.66"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6492",
+            "cliente_nome": "Anslkanklsn",
+            "cliente_fantasia": "Anslkanklsn",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "aalskalsklakslaksal@alkslalala1222.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "05\/27\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "25",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "263",
+            "contrato_identificador": "anslkanklsn01",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "05\/27\/2015",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "anslkanklsn01",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "15.66",
+                    "complemento": "anslkanklsn01",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "anslkanklsn01",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "15.66",
+                    "complemento": "anslkanklsn01",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "515.66",
+            "pendencias_financeiras": [
+                {
+                    "id": "2021",
+                    "valor": "1031.32",
+                    "vencimento": "05\/30\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2021&publickey=1fa6aaafddc62f2c99943e2d3424c5f52c0e44ea&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                },
+                {
+                    "id": "2022",
+                    "valor": "1031.32",
+                    "vencimento": "05\/30\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2022&publickey=dfb9195b0a556ec597cf33abbbd240a8a59cab4d&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                },
+                {
+                    "id": "2034",
+                    "valor": "9999.00",
+                    "vencimento": "06\/02\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2034&publickey=4c27ecb963224d048e04efa91e1d74a00724182f&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                },
+                {
+                    "id": "2045",
+                    "valor": "3200.00",
+                    "vencimento": "08\/01\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2045&publickey=1da5a410a52d982c34c4adb0fb5997a64b9a1a4e&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                },
+                {
+                    "id": "2851",
+                    "valor": "1031.32",
+                    "vencimento": "07\/25\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2851&publickey=1ff010af24080ef749277cda016589861467188b&filename=financeiroteste-002&email=aalskalsklakslaksal@alkslalala1222.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Danslkanklsn01%26publickey%3Dafd9fff65660d807ee33e26957fb3e0ee8f6826b%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "515.66"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6494",
+            "cliente_nome": "Client",
+            "cliente_fantasia": "Client",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "05\/27\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "25",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "268",
+            "contrato_identificador": "client",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "05\/27\/2015",
+            "contrato_fim": "06\/26\/2015",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "client",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "15.66",
+                    "complemento": "client",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "client",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "15.66",
+                    "complemento": "client",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "515.66",
+            "pendencias_financeiras": [
+                {
+                    "id": "2023",
+                    "valor": "971.32",
+                    "vencimento": "05\/30\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2023&publickey=9d97ca5224d7f26e5f63d18837fd493cddbf0d51&filename=financeiroteste-002&email="
+                },
+                {
+                    "id": "2852",
+                    "valor": "8600.66",
+                    "vencimento": "07\/25\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2852&publickey=35a3c6d198360bd08f480452fddf8dd6e23954e7&filename=financeiroteste-002&email="
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dclient%26publickey%3Db063e86002859300ca5e2f85c3e227813602398e%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "515.66"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6494",
+            "cliente_nome": "Client",
+            "cliente_fantasia": "Client",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "05\/27\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "25",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "270",
+            "contrato_identificador": "client01",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "05\/29\/2015",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "client01",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "15.66",
+                    "complemento": "client01",
+                    "avulso": "0"
+                },
+                {
+                    "id": "12",
+                    "identificador": "FLAP-PS1-15",
+                    "quantidade": "3.00",
+                    "valor": "3200.00",
+                    "complemento": "client01",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "client01",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "15.66",
+                    "complemento": "client01",
+                    "mesano": "05\/25\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "10115.66",
+            "pendencias_financeiras": [
+                {
+                    "id": "2023",
+                    "valor": "971.32",
+                    "vencimento": "05\/30\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2023&publickey=9d97ca5224d7f26e5f63d18837fd493cddbf0d51&filename=financeiroteste-002&email="
+                },
+                {
+                    "id": "2852",
+                    "valor": "8600.66",
+                    "vencimento": "07\/25\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2852&publickey=35a3c6d198360bd08f480452fddf8dd6e23954e7&filename=financeiroteste-002&email="
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dclient01%26publickey%3D2eecfc7d790163576c783c7087d0537d72b78144%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "515.66"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6495",
+            "cliente_nome": "Alan Tavares",
+            "cliente_fantasia": "Alan Tavares",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "alklaklk2alsl@alkalka.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "06\/01\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "5",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "271",
+            "contrato_identificador": "alan_tavares",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "06\/01\/2015",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "alan_tavares",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "17.03",
+                    "complemento": "alan_tavares",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "alan_tavares",
+                    "mesano": "06\/05\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "17.03",
+                    "complemento": "alan_tavares",
+                    "mesano": "06\/05\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "517.03",
+            "pendencias_financeiras": [
+                {
+                    "id": "2026",
+                    "valor": "1034.06",
+                    "vencimento": "06\/04\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2026&publickey=b6150e65d31856869cc82ad8a3204de49ea5f526&filename=financeiroteste-002&email=alklaklk2alsl@alkalka.com"
+                },
+                {
+                    "id": "2853",
+                    "valor": "517.03",
+                    "vencimento": "07\/05\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2853&publickey=3d8e1f1b5fb1d16ea3aff767c3156b668e6da5d9&filename=financeiroteste-002&email=alklaklk2alsl@alkalka.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dalan_tavares%26publickey%3Dd673c99d6db3b9f16b0f39bce3a0cd6af14e7d68%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "517.03"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6496",
+            "cliente_nome": "Alan Tavares",
+            "cliente_fantasia": "Alan Tavares",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "aslkaslkas@aslklkaslkas.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "06\/01\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "5",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "272",
+            "contrato_identificador": "alan_tavares01",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "06\/01\/2015",
+            "contrato_fim": "05\/31\/2015",
+            "contrato_status": "encerrado",
+            "contrato_status_real": "encerrado",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "alan_tavares01",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "2.00",
+                    "valor": "500.00",
+                    "complemento": "alan_tavares01",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "24.03",
+                    "complemento": "alan_tavares01",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "alan_tavares01",
+                    "mesano": "06\/05\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "17.03",
+                    "complemento": "alan_tavares01",
+                    "mesano": "06\/05\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "1524.03",
+            "pendencias_financeiras": [
+                {
+                    "id": "2027",
+                    "valor": "2041.06",
+                    "vencimento": "06\/04\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2027&publickey=a85dee89cd0f60abaed5fd99a686a8da5600bde7&filename=financeiroteste-002&email=aslkaslkas@aslklkaslkas.com"
+                },
+                {
+                    "id": "2030",
+                    "valor": "1034.06",
+                    "vencimento": "06\/04\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2030&publickey=ebb7a709f9c24d26d14587cedd407efae6c6c2cf&filename=financeiroteste-002&email=aslkaslkas@aslklkaslkas.com"
+                },
+                {
+                    "id": "2854",
+                    "valor": "585.15",
+                    "vencimento": "07\/05\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2854&publickey=363659adc2249beaf44c5d2a187b26b2f36864fb&filename=financeiroteste-002&email=aslkaslkas@aslklkaslkas.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dalan_tavares01%26publickey%3D30063248ed6322dcfc9cbcf94da49dcba4c6a3cd%26statusLicencao%3Dencerrado",
+            "contrato_valor_adesao": "517.03"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6496",
+            "cliente_nome": "Alan Tavares",
+            "cliente_fantasia": "Alan Tavares",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "aslkaslkas@aslklkaslkas.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "06\/01\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "5",
+            "plano_id": "3",
+            "plano_nome": "Com frete",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "274",
+            "contrato_identificador": "alan_tavares02",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "06\/01\/2015",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1.00",
+                    "valor": "500.00",
+                    "complemento": "alan_tavares02",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "5.00",
+                    "valor": "17.03",
+                    "complemento": "alan_tavares02",
+                    "avulso": "0"
+                },
+                {
+                    "id": "3",
+                    "identificador": "LV-POTENC",
+                    "quantidade": "1",
+                    "valor": "500.00",
+                    "complemento": "alan_tavares02",
+                    "mesano": "06\/05\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999984",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "17.03",
+                    "complemento": "alan_tavares02",
+                    "mesano": "06\/05\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "585.15",
+            "pendencias_financeiras": [
+                {
+                    "id": "2027",
+                    "valor": "2041.06",
+                    "vencimento": "06\/04\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2027&publickey=a85dee89cd0f60abaed5fd99a686a8da5600bde7&filename=financeiroteste-002&email=aslkaslkas@aslklkaslkas.com"
+                },
+                {
+                    "id": "2030",
+                    "valor": "1034.06",
+                    "vencimento": "06\/04\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2030&publickey=ebb7a709f9c24d26d14587cedd407efae6c6c2cf&filename=financeiroteste-002&email=aslkaslkas@aslklkaslkas.com"
+                },
+                {
+                    "id": "2854",
+                    "valor": "585.15",
+                    "vencimento": "07\/05\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2854&publickey=363659adc2249beaf44c5d2a187b26b2f36864fb&filename=financeiroteste-002&email=aslkaslkas@aslklkaslkas.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dalan_tavares02%26publickey%3D775c8c52d685d6efdd1ecaaa095356f01452ec74%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "517.03"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6498",
+            "cliente_nome": "Alan Teste Multiplos",
+            "cliente_fantasia": "Alan Teste Multiplos",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "alantestemultiplos@multiplos.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "06\/02\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "10",
+            "plano_id": "14",
+            "plano_nome": "teste",
+            "plano_grade_nome": "Itens adicionais",
+            "contrato_id": "275",
+            "contrato_identificador": "alan_teste_multiplos",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "06\/06\/2015",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "999999982",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "50.00",
+                    "complemento": "alan_teste_multiplos",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999983",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "30.00",
+                    "complemento": "alan_teste_multiplos",
+                    "mesano": "06\/10\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999983",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "30.00",
+                    "complemento": "alan_teste_multiplos",
+                    "mesano": "07\/10\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999983",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "30.00",
+                    "complemento": "alan_teste_multiplos",
+                    "mesano": "08\/10\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999983",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "30.00",
+                    "complemento": "alan_teste_multiplos",
+                    "mesano": "09\/10\/2015",
+                    "avulso": "1"
+                },
+                {
+                    "id": "999999983",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "30.00",
+                    "complemento": "alan_teste_multiplos",
+                    "mesano": "10\/10\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "50",
+            "pendencias_financeiras": [
+                {
+                    "id": "2049",
+                    "valor": "100.00",
+                    "vencimento": "06\/09\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2049&publickey=506d98ea83c530856fffb0ad3a87f40b0e135d51&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                },
+                {
+                    "id": "2856",
+                    "valor": "80.00",
+                    "vencimento": "07\/10\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2856&publickey=ae7bdf6cbe55567971db06de0426af6bf7de38a9&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                },
+                {
+                    "id": "2857",
+                    "valor": "3470.00",
+                    "vencimento": "07\/10\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2857&publickey=239eab15c6893a44fcb0bc41e03c22bbca02c765&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dalan_teste_multiplos%26publickey%3D21db89e6a2f10301dff0e5af0ee08ed87be898ba%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "150"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6498",
+            "cliente_nome": "Alan Teste Multiplos",
+            "cliente_fantasia": "Alan Teste Multiplos",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "alantestemultiplos@multiplos.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "06\/02\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "10",
+            "plano_id": "4",
+            "plano_nome": "teste trial",
+            "plano_grade_nome": "Principal",
+            "contrato_id": "277",
+            "contrato_identificador": "alan_teste_multiplos01",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "06\/06\/2015",
+            "contrato_trial_fim": "06\/06\/2015",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "06\/06\/2015",
+            "contrato_fim": "07\/05\/2015",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "999999982",
+                    "identificador": "",
+                    "quantidade": "1.00",
+                    "valor": "100.00",
+                    "complemento": "alan_teste_multiplos01",
+                    "avulso": "0"
+                }
+            ],
+            "contrato_valor_recorrencia": "100",
+            "pendencias_financeiras": [
+                {
+                    "id": "2049",
+                    "valor": "100.00",
+                    "vencimento": "06\/09\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2049&publickey=506d98ea83c530856fffb0ad3a87f40b0e135d51&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                },
+                {
+                    "id": "2856",
+                    "valor": "80.00",
+                    "vencimento": "07\/10\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2856&publickey=ae7bdf6cbe55567971db06de0426af6bf7de38a9&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                },
+                {
+                    "id": "2857",
+                    "valor": "3470.00",
+                    "vencimento": "07\/10\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2857&publickey=239eab15c6893a44fcb0bc41e03c22bbca02c765&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dalan_teste_multiplos01%26publickey%3D50addfc743ca2b2acea67e574fadf8bee48a5942%26statusLicencao%3Dpendente"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6498",
+            "cliente_nome": "Alan Teste Multiplos",
+            "cliente_fantasia": "Alan Teste Multiplos",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "alantestemultiplos@multiplos.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "06\/02\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "10",
+            "plano_id": "13",
+            "plano_nome": "Somente ades\u00e3o",
+            "plano_grade_nome": "Itens adicionais",
+            "contrato_id": "278",
+            "contrato_identificador": "alan_teste_multiplos02",
+            "contrato_trial": "false",
+            "contrato_trial_inicio": "",
+            "contrato_trial_fim": "",
+            "contrato_trial_dias": "",
+            "contrato_inicio": "06\/06\/2015",
+            "contrato_fim": "09\/05\/2015",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "999999982",
+                    "identificador": "",
+                    "quantidade": "0.00",
+                    "valor": "1.00",
+                    "complemento": "alan_teste_multiplos02",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999983",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "200.00",
+                    "complemento": "alan_teste_multiplos02",
+                    "mesano": "06\/10\/2015",
+                    "avulso": "1"
+                }
+            ],
+            "contrato_valor_recorrencia": "0",
+            "pendencias_financeiras": [
+                {
+                    "id": "2049",
+                    "valor": "100.00",
+                    "vencimento": "06\/09\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2049&publickey=506d98ea83c530856fffb0ad3a87f40b0e135d51&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                },
+                {
+                    "id": "2856",
+                    "valor": "80.00",
+                    "vencimento": "07\/10\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2856&publickey=ae7bdf6cbe55567971db06de0426af6bf7de38a9&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                },
+                {
+                    "id": "2857",
+                    "valor": "3470.00",
+                    "vencimento": "07\/10\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2857&publickey=239eab15c6893a44fcb0bc41e03c22bbca02c765&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dalan_teste_multiplos02%26publickey%3D4cd75cb61a07d682aea4d5c2a4b4511daa1eed20%26statusLicencao%3Dpendente",
+            "contrato_valor_adesao": "200"
+        },
+        {
+            "posicao_em": "23\/06\/2015 20:48:15",
+            "cliente_id": "6498",
+            "cliente_nome": "Alan Teste Multiplos",
+            "cliente_fantasia": "Alan Teste Multiplos",
+            "cliente_documento": "",
+            "cliente_identificador": "",
+            "cliente_email": "alantestemultiplos@multiplos.com",
+            "cliente_telefone": "",
+            "cliente_cep": "13080-020",
+            "cliente_endereco": "Rua Evaristo da Veiga",
+            "cliente_numero": "80",
+            "cliente_complemento": "",
+            "cliente_bairro": "Jardim Santa Genebra",
+            "cliente_cidade": "Campinas",
+            "cliente_estado": "SP",
+            "cliente_campo1": "",
+            "cliente_campo2": "",
+            "cliente_campo3": "",
+            "cliente_campo4": "",
+            "cliente_status": "ativo",
+            "cliente_inicio": "06\/02\/2015",
+            "cliente_fim": "",
+            "cliente_congelamento": "",
+            "cliente_vencimento": "10",
+            "plano_id": "13",
+            "plano_nome": "Somente ades\u00e3o",
+            "plano_grade_nome": "Itens adicionais",
+            "contrato_id": "280",
+            "contrato_identificador": "alan_teste_multiplos03",
+            "contrato_trial": "true",
+            "contrato_trial_inicio": "06\/06\/2015",
+            "contrato_trial_fim": "06\/25\/2015",
+            "contrato_trial_dias": "20",
+            "contrato_inicio": "",
+            "contrato_fim": "",
+            "contrato_status": "pendente",
+            "contrato_status_real": "pendente",
+            "servicos": [
+                {
+                    "id": "999999982",
+                    "identificador": "",
+                    "quantidade": "0",
+                    "valor": "1.00",
+                    "complemento": "",
+                    "mesano": "",
+                    "avulso": "0"
+                },
+                {
+                    "id": "999999983",
+                    "identificador": "",
+                    "quantidade": "1",
+                    "valor": "200.00",
+                    "complemento": "",
+                    "mesano": "",
+                    "avulso": "1"
+                }
+            ],
+            "pendencias_financeiras": [
+                {
+                    "id": "2049",
+                    "valor": "100.00",
+                    "vencimento": "06\/09\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2049&publickey=506d98ea83c530856fffb0ad3a87f40b0e135d51&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                },
+                {
+                    "id": "2856",
+                    "valor": "80.00",
+                    "vencimento": "07\/10\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2856&publickey=ae7bdf6cbe55567971db06de0426af6bf7de38a9&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                },
+                {
+                    "id": "2857",
+                    "valor": "3470.00",
+                    "vencimento": "07\/10\/2015",
+                    "link": "http:\/\/localhost:3059\/clients\/areadocliente\/publico\/cobranca?id=2857&publickey=239eab15c6893a44fcb0bc41e03c22bbca02c765&filename=financeiroteste-002&email=alantestemultiplos@multiplos.com"
+                }
+            ],
+            "url_status": "http%3A%2F%2Flocalhost%3A3059%2Fclients%2Fareadocliente%2Fpublico%2Fstatus%3Fidentificador%3Dalan_teste_multiplos03%26publickey%3Dba06243d6e1ccda244db308c32911b1ad148c588%26statusLicencao%3Dpendente",
+            "contrato_valor_recorrencia": "0",
+            "contrato_valor_adesao": "200"
+        }
+    ]
+}

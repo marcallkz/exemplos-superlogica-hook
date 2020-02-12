@@ -1,0 +1,31 @@
+{
+    "validationtoken": "514cb7f3c9afcd47f9bfbaaff194d9c9444cfbcc",
+    "data": {
+        "id_sacado_sac": "6508",
+        "id_plano_pla": "4",
+        "st_identificador_plc": "alan_teste03",
+        "dt_contrato_plc": "",
+        "dt_cancelamento_plc": "",
+        "id_planocliente_plc": "295",
+        "fl_trial_plc": "1",
+        "dt_trialfim_plc": "07\/22\/2015",
+        "dt_trialinicio_plc": "06\/23\/2015",
+        "fl_autocontratar_plc": "0",
+        "id_vendedor_for": "",
+        "st_emailindicacao_plc": "",
+        "st_nome_cup": "",
+        "st_identificadorextra_plc": "",
+        "fl_autorecontratar_plc": "",
+        "nm_parcelasadesao_plc": "1",
+        "vl_aproxrenovacao_plc": "100.00",
+        "vl_descontorenovacao_plc": "0.00",
+        "id_proximarenovacao_recb": "",
+        "dt_ultimarenovacao_recb": "",
+        "nm_diasgratis_plc": "",
+        "id_endereco_sen": "",
+        "fl_novocontrato_plc": "0,",
+        "cliente_status": "excluido,",
+        "contrato_status": "excluido,",
+        "contrato_status_real": "excluido"
+    }
+}
